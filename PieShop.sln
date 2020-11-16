@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piekarnia", "Piekarnia\Piekarnia.csproj", "{390A7E4B-8FEB-49F2-B61F-F2FAADA698C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieShop", "Piekarnia\PieShop.csproj", "{390A7E4B-8FEB-49F2-B61F-F2FAADA698C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
